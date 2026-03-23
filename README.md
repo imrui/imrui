@@ -19,15 +19,15 @@
   What I pursue?   →   Clean code, elegant architecture, continuous growth
 ```
 
-🌱 **热爱探索新事物**，对新技术保持高度敏感，坚信技术的力量改变世界
+🌱 **Passionate about emerging tech** — always exploring what's next, driven by the belief that technology can reshape the world
 
-🤖 **深度拥抱 AI 时代**，熟悉大模型原理与应用，有丰富的 **LLM / Agent** 开发实践经验
+🤖 **All-in on the AI era** — deep understanding of LLM principles and architectures, with hands-on experience building production-grade **LLM / Agent** applications
 
-⚡ **全栈思维驱动**，从需求到上线独立交付，擅长在复杂系统中找到最优解
+⚡ **Full-stack mindset** — from requirements to deployment, capable of delivering end-to-end independently and navigating complexity with clarity
 
-☁️ **云原生实践者**，熟悉 **Docker**、**Kubernetes** 等容器编排技术，关注系统可观测性与可靠性
+☁️ **Cloud-native practitioner** — proficient with **Docker** & **Kubernetes**, with a focus on observability, reliability, and scalable infrastructure
 
-🌍 **开源社区贡献者**，享受协作与分享，相信好的代码值得被看见
+🌍 **Open source contributor** — believe great code deserves to be seen, and that the best software is built together
 
 ---
 
