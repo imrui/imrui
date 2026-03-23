@@ -19,15 +19,15 @@
   What I pursue?   →   Clean code, elegant architecture, continuous growth
 ```
 
-🌱 **Passionate about emerging tech** — always exploring what's next, driven by the belief that technology can reshape the world
+🌱 **Passionate about emerging tech** — always exploring what's next, believing technology can reshape the world
 
-🤖 **All-in on the AI era** — deep understanding of LLM principles and architectures, with hands-on experience building production-grade **LLM / Agent** applications
+🤖 **All-in on the AI era** — hands-on experience building production-grade **LLM / Agent** applications
 
-⚡ **Full-stack mindset** — from requirements to deployment, capable of delivering end-to-end independently and navigating complexity with clarity
+⚡ **Full-stack mindset** — delivering end-to-end independently, from requirements to deployment
 
-☁️ **Cloud-native practitioner** — proficient with **Docker** & **Kubernetes**, with a focus on observability, reliability, and scalable infrastructure
+☁️ **Cloud-native practitioner** — proficient with **Docker** & **Kubernetes**, focused on reliability and scalability
 
-🌍 **Open source contributor** — believe great code deserves to be seen, and that the best software is built together
+🌍 **Open source contributor** — great code deserves to be seen, and the best software is built together
 
 ---
 
