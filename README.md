@@ -10,11 +10,6 @@
 
 <br/><br/>
 
-[![Blog](https://img.shields.io/badge/🌐%20IMRUI.NET-222222?style=flat-square&labelColor=161b22&color=161b22)](https://www.imrui.net/)
-[![Email](https://img.shields.io/badge/📮%20HILO.SKY.DO@GMAIL.COM-222222?style=flat-square&labelColor=161b22&color=161b22)](mailto:hilo.sky.do@gmail.com)
-
-<br/><br/>
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=go,java,python,ts,react,vue,docker,kubernetes,postgres&theme=dark&perline=9" />
 </a>
@@ -26,15 +21,12 @@
 
 <br/><br/>
 
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imrui&theme=tokyo-night&hide_border=true&area=true&custom_title=Rui%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=imrui&color=58a6ff&style=flat-square&label=VISITORS)
-
-<br/><br/>
-
-*> Building tools that make developers' lives easier_*
 
 <br/>
 
