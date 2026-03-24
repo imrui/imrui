@@ -8,7 +8,15 @@
 
 </div>
 
----
+<div align="center">
+
+<a href="https://github.com/imrui">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=imrui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrui&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+
+</div>
+
 
 ## 🙋‍♂️ About Me
 
@@ -18,18 +26,6 @@
     What I love?   →   New tech, AI/LLM, cloud-native, open community
   What I pursue?   →   Clean code, elegant architecture, continuous growth
 ```
-
-🌱 **Passionate about emerging tech** — always exploring what's next, believing technology can reshape the world
-
-🤖 **All-in on the AI era** — hands-on experience building production-grade **LLM / Agent** applications
-
-⚡ **Full-stack mindset** — delivering end-to-end independently, from requirements to deployment
-
-☁️ **Cloud-native practitioner** — proficient with **Docker** & **Kubernetes**, focused on reliability and scalability
-
-🌍 **Open source contributor** — great code deserves to be seen, and the best software is built together
-
----
 
 ## 🧰 Tech Stack
 
@@ -61,33 +57,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/imrui">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=imrui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrui&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=imrui&theme=tokyonight&hide_border=true&date_format=Y.m.d)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -96,8 +65,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imrui&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
 
 <div align="center">
 
