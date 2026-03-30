@@ -20,9 +20,11 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imrui&theme=tokyo-night&hide_border=true&area=true&custom_title=Rui's+Contribution+Graph&height=260" width="90%" />
+⚡ **Full-stack mindset** — delivering end-to-end independently, from requirements to deployment
 
-<br/>
+🤖 **All-in on the AI era** — hands-on experience building production-grade **LLM / Agent** applications
+
+🌱 **Passionate about emerging tech** — always exploring what's next, believing technology can reshape the world
 
 ![](https://komarev.com/ghpvc/?username=imrui&color=58a6ff&style=flat-square&label=VISITORS)
 
