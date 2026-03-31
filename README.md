@@ -12,7 +12,7 @@
 
 <img src="https://skillicons.dev/icons?i=go,java,python,ts,js,react,vue,docker,kubernetes&theme=dark&perline=9" />
 
-<br/><br/>
+<br/>
 
 <img height="155" src="https://github-readme-stats-phi-sable-23.vercel.app/api?username=imrui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=360" />
 &nbsp;
@@ -25,6 +25,10 @@
 🤖 **All-in on the AI era** — hands-on experience building production-grade **LLM / Agent** applications
 
 🌱 **Passionate about emerging tech** — always exploring what's next, believing technology can reshape the world
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imrui&theme=tokyo-night&hide_border=true&area=true&custom_title=Rui's+Contribution+Graph&height=260" width="90%" />
 
 ![](https://komarev.com/ghpvc/?username=imrui&color=58a6ff&style=flat-square&label=VISITORS)
 
