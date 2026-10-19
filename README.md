@@ -28,7 +28,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imrui&theme=tokyo-night&hide_border=true&area=true&custom_title=Rui's+Contribution+Graph&height=260" width="90%" />
+<img src="assets/contribution-graph.svg" alt="Rui's contribution graph for the last 31 days" width="90%" />
 
 ![](https://komarev.com/ghpvc/?username=imrui&color=58a6ff&style=flat-square&label=VISITORS)
 
